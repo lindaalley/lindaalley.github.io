@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: An Example Post
+title: Untitled
 ---
 
 An example post.
