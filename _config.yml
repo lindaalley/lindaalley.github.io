@@ -14,7 +14,6 @@ markdown: kramdown
 permalink: pretty
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://lindaalley.github.io/'
   media: 'media'
   metadata:
