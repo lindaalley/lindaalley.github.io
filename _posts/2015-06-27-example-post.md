@@ -1,9 +1,7 @@
 ---
-published: true
 layout: post
+published: true
 title: Example post.
 ---
 
-
-
-Example post.
+An example post.
