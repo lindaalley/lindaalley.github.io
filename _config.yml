@@ -20,8 +20,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "text"
-          label: "Layout"
+          element: "hidden"
           value: "post"
       - name: "title"
         field:
