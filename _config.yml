@@ -12,3 +12,20 @@ twitter_username: lindaalleynz
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://lindaalley.github.io/'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "text"
+          label: "Layout"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
