@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-title: Untitled
+title: Example post.
 ---
+
 
 
 Example post.
