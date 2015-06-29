@@ -23,7 +23,7 @@ My fiction is regularly published by The Story Mint, a company based at Massey U
 - _The Vacant Room_, Preface
 - _Illusion_, Chapter 7
 - _The Choir_, Chapter 4
-- CIA Agent_, Chapter 3
+- _CIA Agent_, Chapter 3
 
 _CIA Agent_ is a spy thriller set in Berlin. Part of the serial has been published on 
 [Book Track](http://studio.booktrack.com/#!/bookshelf?booktrackId=4e3ab9868e2e4bb2a6b46469b10d6ae8)
@@ -32,8 +32,6 @@ _CIA Agent_ is a spy thriller set in Berlin. Part of the serial has been publish
 
 _50 Short Short Stories by Young New Zealanders_
 Ed. Graeme Lay, 2001, Tandem Press, Auckland. Poppy pp. 71-72
-
-![50 short short stories by young new zealanders.jpg]({{site.baseurl}}/media/50 short short stories by young new zealanders.jpg)
 
 
 ### Articles
