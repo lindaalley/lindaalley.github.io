@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: /
-
+published: true
 ---
 
-Under Construction.
+
+This page is under construction.
