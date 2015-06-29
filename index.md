@@ -4,13 +4,9 @@ permalink: /
 published: true
 ---
 
-
-
-
 This is a new website and is currently under construction.
 
-![photo of Linda Alley]({{site.baseurl}}/media/lindaalley.jpg)
-
+![Photo of Linda Alley]({{site.baseurl}}/media/linda-alley-small.jpg)
 
 I am a writer and English language teacher based in Melbourne, Australia. My work includes fiction, travel writing, teaching articles and resources.
 
@@ -40,7 +36,7 @@ Ed. Graeme Lay, 2001, Tandem Press, Auckland. Poppy pp. 71-72
 
 ### Articles
 
-My article [Offsite classes: Lessons for the Mobile Teacher](http://www.rayenglish.com/china-info/china-info/off-site-classes-lessons-for-the-mobile-teacher.html) was published by Ray English in January 2013. It provides advice for new teachers who are asked to travel to different locations to give their lessons and can be viewed here:
+My article [Offsite classes: Lessons for the Mobile Teacher](http://www.rayenglish.com/china-info/china-info/off-site-classes-lessons-for-the-mobile-teacher.html) was published by Ray English in January 2013. It provides advice for new teachers who are asked to travel to different locations to give their lessons.
 
 2008 Runner-up for the 18th Annual Travel Writing and Photography Awards, [TNT Magazine](http://www.tntmagazine.com/), UK.
 My article _Roll with it!_ recounts the Tar Barrel Festival, a unique way of celebrating Guy Fawkes Night in Ottery St Mary, a Devonshire village in England.
