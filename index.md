@@ -4,6 +4,7 @@ permalink: /
 published: true
 ---
 
+
 This is a new website and is currently under construction.
 
 ![Photo of Linda Alley]({{site.baseurl}}/media/linda-alley-small.jpg)
@@ -33,6 +34,7 @@ _CIA Agent_ is a spy thriller set in Berlin. Part of the serial has been publish
 _50 Short Short Stories by Young New Zealanders_
 Ed. Graeme Lay, 2001, Tandem Press, Auckland. Poppy pp. 71-72
 
+![50shortshortstoriesbyyoungnew zealanders.jpg]({{site.baseurl}}/media/50shortshortstoriesbyyoungnew zealanders.jpg)
 
 ### Articles
 
@@ -40,3 +42,6 @@ My article [Offsite classes: Lessons for the Mobile Teacher](http://www.rayengli
 
 2008 Runner-up for the 18th Annual Travel Writing and Photography Awards, [TNT Magazine](http://www.tntmagazine.com/), UK.
 My article _Roll with it!_ recounts the Tar Barrel Festival, a unique way of celebrating Guy Fawkes Night in Ottery St Mary, a Devonshire village in England.
+
+![tntmagphoto.jpg]({{site.baseurl}}/media/tntmagphoto.jpg)
+
