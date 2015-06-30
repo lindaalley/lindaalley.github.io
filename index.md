@@ -43,5 +43,5 @@ My article [Offsite classes: Lessons for the Mobile Teacher](http://www.rayengli
 2008 Runner-up for the 18th Annual Travel Writing and Photography Awards, [TNT Magazine](http://www.tntmagazine.com/), UK.
 My article _Roll with it!_ recounts the Tar Barrel Festival, a unique way of celebrating Guy Fawkes Night in Ottery St Mary, a Devonshire village in England.
 
-![tntmagphoto.jpg]({{site.baseurl}}/media/tntmagphoto.jpg)
+
 
