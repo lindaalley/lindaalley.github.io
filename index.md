@@ -7,7 +7,7 @@ published: true
 
 This is a new website and is currently under construction.
 
-![Photo of Linda Alley]({{site.baseurl}}/media/linda-alley-small.jpg)
+
 
 I am a writer and English language teacher based in Melbourne, Australia. My work includes fiction, travel writing, teaching articles and resources.
 
@@ -18,6 +18,7 @@ I am a writer and English language teacher based in Melbourne, Australia. My wor
 My fiction is regularly published by The Story Mint, a company based at Massey University, Auckland, New Zealand. In March 2015, my Chapter 2 of _Unforgotten_ was awarded the prize for Best Serial Chapter. My other contributions cover a wide range of genres such as thriller, mystery, romance and comedy. They can be viewed in the Online Serials section of the website.  
 [The Story Mint](http://www.thestorymint.com/story-mintery)
 
+- _Missing Pieces_, Chapter 4
 - _Unforgotten_, Chapter 2
 - _Hostage_, Chapter 1
 - _Kauri Jewel_, Chapter 6
