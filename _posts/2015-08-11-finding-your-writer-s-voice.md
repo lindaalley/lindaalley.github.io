@@ -6,6 +6,7 @@ title: "Finding your writer's voice"
 
 
 
+
 ![picture of pen on paper]({{site.baseurl}}/media/writer-605764_640.jpg)
 
 I’ve been thinking a lot about my writer’s voice recently. It got me thinking: what exactly is a writer’s voice? If our voices are the sounds we make when we speak, then a writer’s voice has to be the ‘sounds’ our words make on the page. It’s the words we choose and how we put them together. In other words, it’s what makes us different from everyone else. Some writers have a very distinctive voice, for example Gabriel García Márquez. I recently read _One Hundred Years of Solitude_ and Márquez’s description of Melquíades jumped right out at me:
