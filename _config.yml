@@ -1,8 +1,7 @@
 # Site settings
 title: Linda Alley
 email: lindaalleywriter@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Linda Alley is a writer of fiction, travel articles and teaching resources. She is based in Melbourne, Australia.
+description: > #Linda Alley is a writer of fiction, travel articles and teaching resources. She is based in Melbourne, Australia.#
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.lindaalley.com" # the base hostname & protocol for your site
 twitter_username: lindaalleywrite
