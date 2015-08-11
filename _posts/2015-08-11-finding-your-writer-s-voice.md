@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Finding your writer's voice"
 ---
+
 
 
 ![picture of pen on paper]({{site.baseurl}}/media/writer-605764_640.jpg)
@@ -29,4 +30,3 @@ The novels are Márquez and Earls couldn’t be more different, but I think they
 - Choose a feature of writing that you can change, for example sentence length. Try writing a paragraph with very short sentences or very long sentences. Alternatively, try writing a paragraph without a particular feature, for instance no adverbs or no dialogue. How does it change your writing? 	
 
 Any more thoughts?
-
