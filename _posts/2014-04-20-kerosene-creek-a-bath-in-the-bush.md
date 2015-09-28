@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Kerosene Creek: A bath in the bush"
 ---
+
 
 Five minutes' walk down a bush track, Kerosene Creek widens into a natural swimming hole. What doesn't seem quite so natural is the steam rising up from the river. Right now, the water of Kerosene Creek is probably about 38°C. A woman showers underneath the mini waterfall that plunges into the pool. Others lounge on the banks, cooling down among the ferns.
 
@@ -17,4 +18,4 @@ Relax your mind, body and wallet with a bath in the bush at Kerosene Creek.
 
 
 
-Note: There have been thefts in the past at Kerosene Creek, but you should be fine if you visit during daylight hours and avoid leaving valuables in your car or unattended. 
+Note: There have been thefts in the past at Kerosene Creek, but you should be fine if you visit during daylight hours and avoid leaving valuables in your car or unattended.
