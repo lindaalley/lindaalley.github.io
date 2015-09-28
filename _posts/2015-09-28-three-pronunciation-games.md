@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: Three pronunciation games
 ---
+
 
 Pronunciation can be easily overlooked in ESL classes as it is often not included in exams in the same way as the other core language skills. Yet pronunciation is crucial not only to the speaking components of formal exams such as IELTS, but to a person's ability to communicate and be understood within the English-speaking world. Here are three games which will help you to incorporate more pronunciation into your classes in a fun, constructive way.
 
