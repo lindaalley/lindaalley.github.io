@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 title: "Krakow fare: Eat, drink and be merry for less"
 ---
+
 
 
 Global economic crisis equals reduced holiday budget, which equals poor quality food, right? Not in Krakow, Poland. Offering the same high gastronomical standards as Paris and Rome, you won't need to take out a bank loan to eat and drink here. Both Krakow's old town and its traditional recipes have survived unscathed from the bombs of the Second World War. Once you arrive, don't be afraid to put your map away. Exploring the labyrinth of ancient streets can lead to unusual culinary adventures. Unassuming names and quiet appearances can sometimes be deceptive. More often than not, inside these places are thriving with local life, a sure testament to the quality of the cuisine. Perhaps that's the secret to Poland's current economic growth. Here are three intriguing local haunts to get you started.
@@ -55,5 +56,3 @@ ul. Szeroka 6
 Tel: 012 411 12 45
 
 http://www.klezmer.pl/
-
-
